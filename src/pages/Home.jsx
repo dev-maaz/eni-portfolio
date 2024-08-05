@@ -4,6 +4,7 @@ import Drawer from "../components/Drawer";
 import ContactBar from "../components/ContactBar";
 
 function Home() {
+    //
     return ( 
         <div className="flex flex-col w-big h-128 bg-red-100 rounded-lg relative">
             <div className="flex font-bold text-xl font-poppins p-12">
